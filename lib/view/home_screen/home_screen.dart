@@ -199,7 +199,7 @@ class HomeScreen extends StatelessWidget {
                                       color: Colors.white.withOpacity(0.5),
                                     ),
                                     Text(
-                                      'Yes/ No/ Maybe/ IDK',
+                                      'Create Custom',
                                       style: TextStyle(
                                         color: Colors.white.withOpacity(0.5),
                                         fontWeight: FontWeight.w500,
